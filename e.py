@@ -10,7 +10,7 @@ if not os.path.exists(input_file):
     input("按回车退出...")
     exit()
 
-print("正在智能解析（自动提取序号和名字，无视空格有无）...")
+print(" 正在智能解析（自动提取序号和名字，无视空格有无）...")
 
 data = []  # 存放 [序号, 名字]
 error_lines = []
