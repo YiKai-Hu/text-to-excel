@@ -5,3 +5,4 @@
 # 排除 Python 缓存垃圾
 __pycache__/
 *.pyc
+test.sample
